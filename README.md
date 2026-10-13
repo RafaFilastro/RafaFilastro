@@ -145,21 +145,6 @@ O projeto envolve:
 
 ---
 
-### 🪲 Khepri Backup
-
-Projeto autoral de uma plataforma de backup gerenciado, desenvolvido com
-foco em segurança, gerenciamento centralizado e automação.
-
-O projeto envolve conceitos como:
-
-- agentes;
-- inventário de dispositivos;
-- gerenciamento centralizado;
-- segurança;
-- licenciamento;
-- comunicação entre agente e servidor;
-- testes automatizados.
-
 > Projeto privado em desenvolvimento.
 
 ---
