@@ -1,24 +1,12 @@
 <div align="center">
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=165&section=header&text=Rafael%20Filastro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20de%20Software&descAlignY=56&descSize=18"
-/>
-<a href="https://www.linkedin.com/in/rafaelfilastro/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Rafael%20Filastro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=170&section=header&text=Rafael%20Filastro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Python%20%7C%20APIs%20%7C%20Automacao&descAlignY=58&descSize=17" width="100%" alt="Rafael Filastro - Backend Python, APIs e automação" />
 
-&nbsp;&nbsp;
+<p><strong>Desenvolvedor Backend Python | FastAPI · PostgreSQL · Docker · Linux</strong></p>
+<p>Experiência em infraestrutura. Foco em backend. Evolução em DevOps e DevSecOps.</p>
 
-<a href="https://github.com/RafaFilastro">
-  <img
-    src="https://img.shields.io/badge/GitHub-RafaFilastro-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
+<a href="https://www.linkedin.com/in/rafaelfilastro/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/RafaFilastro?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" /></a>
 
 </div>
 
@@ -26,146 +14,107 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor de software e venho construindo projetos utilizando
-**Python, FastAPI, Angular, TypeScript, PostgreSQL, MySQL e Docker**.
+Atuo com tecnologia desde **2017**, com experiência em infraestrutura de TI, redes, servidores Linux e Windows e resolução de problemas em ambientes corporativos. Essa trajetória me deu uma visão prática de como as aplicações funcionam além do código.
 
-Gosto principalmente de desenvolver sistemas, APIs, trabalhar com banco de
-dados, regras de negócio e integração entre frontend e backend.
+Hoje estou direcionando minha carreira para **desenvolvimento backend com Python**, especialmente **FastAPI, APIs REST, PostgreSQL e integrações**. Trabalho em um ERP comercial contratado, no desenvolvimento de um e-commerce e em projetos com automação e inteligência artificial.
 
-Minha trajetória em tecnologia começou na infraestrutura, o que me deu uma
-boa base de Linux, servidores e troubleshooting, conhecimentos que hoje uso
-como complemento no desenvolvimento.
-
-Atualmente sigo estudando, desenvolvendo projetos reais e buscando evoluir
-cada vez mais como desenvolvedor.
+Busco uma oportunidade como **Desenvolvedor Backend Python Júnior**. Em paralelo, utilizo minha base de infraestrutura para avançar em **DevOps e DevSecOps**, aprofundando CI/CD, cloud e segurança de aplicações.
 
 ---
 
-## 🛠️ Tecnologias
+## 🏆 Projeto premiado
 
-### Desenvolvimento
+### Karte Assist | 1º lugar no Super Dev Challenge 2026
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python">
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI">
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=angular" alt="Angular">
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript">
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript">
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML">
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS">
-</p>
+[![Premiação](https://img.shields.io/badge/Super%20Dev%20Challenge%202026-1%C2%BA%20lugar-D4A017?style=for-the-badge&logo=trophy&logoColor=white)](https://github.com/RafaFilastro/super-dev-challenge-2026)
+[![Código](https://img.shields.io/badge/Ver%20projeto-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaFilastro/super-dev-challenge-2026)
 
-### Banco de dados
+<div align="center">
+  <a href="https://github.com/RafaFilastro/super-dev-challenge-2026">
+    <img src="https://raw.githubusercontent.com/RafaFilastro/super-dev-challenge-2026/main/assets/karte-assist-ilustracao.webp" width="300" alt="Ilustração do projeto Karte Assist" />
+  </a>
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL">
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
-</p>
+**O problema:** visitantes da Oktoberfest Blumenau precisavam encontrar orientações confiáveis sobre o Oktober Karte, cartão utilizado para consumo durante a festa.
 
-### Ferramentas e ambiente
+**A solução:** nossa equipe desenvolveu um agente de IA que atende em **português, alemão, espanhol e inglês**, consulta uma base de conhecimento no PostgreSQL e utiliza regras de negócio no backend para orientar sobre recarga, utilização, saldo e reembolso.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git">
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker">
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux">
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code">
-</p>
+**Minha atuação:** participei do desenvolvimento, dos testes e da validação das respostas e consultas do agente. Na apresentação, também expliquei o funcionamento técnico para a banca avaliadora.
+
+**Stack:** JavaScript · TypeScript · Supabase Edge Functions · PostgreSQL · IA generativa. A versão pública atual utiliza **Google Gemini**.
+
+> Projeto desenvolvido **em equipe**, vencedor do **1º lugar no Super Dev Challenge 2026**, promovido pela ProWay.
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos e entregas
 
-### 🏗️ ERP Fundações
+### 🏗️ ERP de Gestão | Projeto comercial contratado
 
-Sistema web desenvolvido para um projeto comercial utilizando
-**Angular, TypeScript, Python, FastAPI, PostgreSQL, SQLAlchemy,
-Alembic e Docker**.
+Aplicação web para uma empresa do setor de fundações, integrando processos operacionais e administrativos. Inclui autenticação JWT, perfis de acesso, clientes, colaboradores, obras, contratos, documentos e gestão financeira.
 
-Principais pontos do projeto:
+**Stack:** Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · Angular · TypeScript · Docker.
 
-- autenticação com JWT;
-- usuários e controle de acesso;
-- APIs REST;
-- modelagem e persistência de dados;
-- regras de negócio;
-- integração entre frontend e backend;
-- validação de dados;
-- auditoria e segurança;
-- versionamento com Git e GitHub.
+**Etapa atual:** primeira entrega apresentada ao cliente; evolução contínua a partir das validações recebidas. 
 
-> Projeto privado desenvolvido sob contrato.
+**Código privado por contrato.**
 
----
+### 🛍️ Twofold Store | E-commerce em desenvolvimento
 
-### ⚽ API de Clubes de Futebol
+Sistema para um negócio familiar com integração entre loja, painel administrativo, backend e pagamentos. Envolve APIs, modelagem de dados, validação de pedidos e testes de fluxos financeiros.
 
-API REST desenvolvida com **Python, FastAPI e MySQL** para gerenciamento
-de informações de clubes, técnicos, estádios e campeonatos.
+**Stack:** Python · FastAPI · Angular · TypeScript · MySQL · Docker.
 
-No projeto trabalho conceitos como:
+**Código privado por contrato.**
 
-- CRUD;
-- controllers e repositories;
-- schemas com Pydantic;
-- relacionamentos entre tabelas;
-- chaves estrangeiras;
-- consultas SQL;
-- integração com MySQL;
-- documentação automática com Swagger/OpenAPI.
+### 🔐 Escape Code | Aplicação multiplayer
+
+Jogo de perguntas e respostas com partidas, cronômetro, pontuação, ranking e sincronização de estado entre frontend e backend.
+
+**Stack:** Angular · TypeScript · FastAPI · MySQL.
+
+### ⚽ API de Clubes de Futebol | Projeto de estudo
+
+API REST para cadastro e gerenciamento de clubes, técnicos, estádios e campeonatos, com relacionamentos entre tabelas, validação com Pydantic e documentação OpenAPI.
+
+**Stack:** Python · FastAPI · MySQL.
 
 ---
 
-### 🔐 Escape Code
+## 🛠️ Tecnologias e ferramentas
 
-Aplicação multiplayer desenvolvida utilizando
-**Angular, TypeScript, FastAPI e MySQL**.
+**Backend e bancos de dados**
 
-O projeto envolve:
+<p><img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql" alt="Python, FastAPI, PostgreSQL e MySQL" /></p>
 
-- comunicação entre frontend e backend;
-- gerenciamento de jogadores;
-- partidas;
-- perguntas e respostas;
-- cronômetro;
-- sistema de pontuação;
-- ranking;
-- sincronização do estado da partida.
+**Frontend e integração**
+
+<p><img src="https://skillicons.dev/icons?i=angular,ts,js,html,css" alt="Angular, TypeScript, JavaScript, HTML e CSS" /></p>
+
+**Infraestrutura, automação e ferramentas**
+
+<p><img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github,vscode" alt="Linux, Docker, Bash, Git, GitHub e VS Code" /></p>
 
 ---
 
-> Projeto privado em desenvolvimento.
+## ⚙️ Infraestrutura, automação e próximos passos
+
+Mantenho um **homelab** com Linux, **Proxmox**, Docker e redes segmentadas para praticar administração de serviços, virtualização e implantação de aplicações.
+
+Também desenvolvo scripts de **automação em Python e Bash**, incluindo preparação de ambientes isolados para testes e rotinas de backup com **Rclone, verificação SHA-256 e retenção de versões**.
+
+**Em aprofundamento:** pipelines CI/CD, cloud, observabilidade, segurança de APIs e práticas de DevSecOps. Meu objetivo é consolidar essas competências com projetos práticos documentados, sem deixar de atuar no desenvolvimento backend.
 
 ---
 
 <div align="center">
 
-## 📫 Contato
+### 📫 Vamos conversar?
 
-<a href="https://www.linkedin.com/in/rafaelfilastro/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Ver%20perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
+<p>Aberto a oportunidades como <strong>Desenvolvedor Backend Python Júnior</strong>, com interesse em APIs, integrações e automações.</p>
 
-<br><br>
+<a href="https://www.linkedin.com/in/rafaelfilastro/"><img src="https://img.shields.io/badge/LinkedIn-Falar%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contato pelo LinkedIn" /></a>
 
-**Desenvolvimento de Software • APIs • Web • Banco de Dados**
-
-<br><br>
-
-<sub>Construindo, estudando e evoluindo um projeto de cada vez.</sub>
+<p><sub>Infraestrutura como base. Desenvolvimento como foco. Evolução contínua.</sub></p>
 
 </div>
